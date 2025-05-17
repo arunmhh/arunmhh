@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arun Kumar
 
-## Bioinformatics | Data Analyst |  Data Science | NGS | Nextfolw
+## Bioinformatics | Data Analyst |  Data Science | NGS | Nextflow
 
 🎓 I'm a PhD researcher specializing in **Liver Cancer Stem Cell Biology**, with a deep focus on genomic and transcriptomic profiling to unravel the complexities of cancer biology.
 
