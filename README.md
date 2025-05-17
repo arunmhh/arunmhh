@@ -23,9 +23,9 @@
 - **Machine Learning**: scikit-learn, caret, XGBoost, randomForest
 - **Data Visualization**: ggplot2, matplotlib, seaborn, plotly, 
 
-### ⚙️ Workflow & Pipelines
+### ⚙️ Workflow, Pipelines & Reproducibility
 - **Workflow Management**: Nextflow
-- **Reproducibility**:  Conda,Docker,RENV
+- **Reproducibility**:  Conda,Docker,RENV, Git, GitHub Actions
 - **Cloud & HPC**: AWS, Linux (Bash scripting, HPC environments)
 
 ### 🎨 Graphics & Communication
