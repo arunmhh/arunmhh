@@ -9,7 +9,7 @@
 ## 🔬 About Me
 
 - 🧬 I’m a **Biologist** with a passion for computational biology and systems-level understanding of cancer.
-- 🧪 Currently pursuing my **PhD in Liver Cancer Stem Cell Biology**, Aspected to submit August 2025.
+- 🧪 Currently pursuing my **PhD in Liver Cancer Stem Cell Biology**, Expected to submit **August 2025**.
 - 📊 My research involves **NGS data analysis**, including bulk RNA-seq and single-cell RNA-seq & MicroArray.
 - 🧠 I explore gene expression, mutation profiling, and pathway analysis to identify therapeutic targets.
 
