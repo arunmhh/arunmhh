@@ -70,6 +70,8 @@
 </p>
 ---
 
+[![Aruns GitHub stats](https://github-readme-stats.vercel.app/api?username=arunmhh)](https://github.com/arunmhh/github-readme-stats)
+
 ![K_CD133p_K_CD133N](https://github.com/arunmhh/arunmhh/raw/main/Image/K_CD133p_K_CD133N.png)
 
 > “Science is not only a disciple of reason but, also, one of romance and passion.” — Stephen Hawking
