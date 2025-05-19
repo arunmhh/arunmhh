@@ -15,7 +15,9 @@
   <img src="https://skillicons.dev/icons?i=python,docker,linux,rust,git,vscode&theme=dark"/>
    
   <!-- Nextflow icon -->
-  <img src="https://commons.wikimedia.org/wiki/File:Logo_Nextflow_(new).png" width="150" alt="Nextflow" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://github.com/arunmhh/arunmhh/raw/main/Image/nextflow-icon.png" width="45" alt="Nextflow" style="vertical-align: middle;" />
+
+ 
 </p>
 
 
