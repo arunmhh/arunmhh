@@ -5,6 +5,21 @@
 🎓 I'm a PhD researcher specializing in **Liver Cancer Stem Cell Biology**, with a deep focus on genomic and transcriptomic profiling to unravel the complexities of cancer biology.
 
 ---
+## 🛡️ Skills & Stack
+
+<p align="center">
+  <!-- R icon -->
+  <img src="https://www.r-project.org/logo/Rlogo.png" width="60" alt="R" style="vertical-align: middle; margin-right: 25px;" />
+
+  <!-- SkillIcons set -->
+  <img src="https://skillicons.dev/icons?i=python,docker,linux,rust,git,vscode&theme=dark"/>
+   
+  <!-- Nextflow icon -->
+  <img src="https://commons.wikimedia.org/wiki/File:Logo_Nextflow_(new).png" width="150" alt="Nextflow" style="vertical-align: middle; margin-right: 10px;" />
+</p>
+
+
+---
 
 ## 🔬 About Me
 
