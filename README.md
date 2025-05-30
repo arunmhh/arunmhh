@@ -74,7 +74,7 @@
 
 ![K_CD133p_K_CD133N](https://github.com/arunmhh/arunmhh/raw/main/Image/K_CD133p_K_CD133N.png)
 
-> “Science is not only a disciple of reason but, also, one of romance and passion.” — Stephen Hawking
+> “Science is not only a disciple of reason but, also, one of romance and passion.” — ****Stephen Hawking****
 
 
 Thanks for stopping by! Feel free to check out my projects and connect if you're interested in collaborating! 🌱
