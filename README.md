@@ -38,7 +38,8 @@
 - **Languages**: R, Python,Power BI, Tableau
 - **Data Analysis**: Seurat, DESeq2, tidyverse,Bioconductor, Pandas, NumPy, SciPy
 - **Machine Learning**: scikit-learn, caret, XGBoost, randomForest
-- **Data Visualization**: ggplot2, matplotlib, seaborn, plotly, 
+- **Data Visualization**: ggplot2, matplotlib, seaborn, plotly,
+- **Databases**: MySQL,PostgreSQL,MongoDB,
 
 ### ⚙️ Workflow, Pipelines & Reproducibility
 - **Workflow Management**: Nextflow
