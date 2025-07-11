@@ -36,7 +36,7 @@
 
 ### 🧑‍💻 Programming & Analysis
 - **Languages**: R, Python,Power BI, Tableau
-- **Data Analysis**: Seurat, DESeq2, tidyverse,Bioconductor, Pandas, NumPy, SciPy
+- **Data Analysis**: Seurat, DESeq2, tidyverse,Bioconductor, Pandas, NumPy, SciPy,OOPs in python,
 - **Machine Learning**: scikit-learn, caret, XGBoost, randomForest
 - **Data Visualization**: ggplot2, matplotlib, seaborn, plotly,
 - **Databases**: MySQL,PostgreSQL,MongoDB,
