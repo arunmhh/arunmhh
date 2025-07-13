@@ -47,7 +47,7 @@
 - **Cloud & HPC**: AWS, Linux (Bash scripting, HPC environments)
 
 ### 🎨 Graphics & Communication
-- **Scientific Visualization & Design**: Inkscape, Adobe Illustrator, GraphPad Prism,Figma
+- **Scientific Visualization & Design**: Inkscape, Adobe Illustrator, GraphPad Prism,
 
 ---
 
