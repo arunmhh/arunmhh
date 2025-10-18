@@ -3,7 +3,7 @@
 ## Bioinformatics | Data Science & Analytics | NGS | Nextflow
 🎓 I'm a PhD researcher specializing in **Liver Cancer Stem Cell Biology**, with a deep focus on **genomic, transcriptomic and kinome** profiling to unravel the complexities of cancer biology.
 
----------
+----------
 ## 🛡️ Skills & Stack
 
 <p align="center">
