@@ -25,7 +25,7 @@
 ## 🔬 About Me
 
 - 🧬 I’m a **Biologist** with a passion for computational biology and systems-level understanding of cancer.
-- 🧪 Currently pursuing my **PhD in Liver Cancer Stem Cell Biology**, Expected to submit **March 2026**.
+- 🧪 Currently pursuing my **PhD in Liver Cancer Stem Cell Biology**, Expected to submit **June 2026**.
 - 📊 My research involves **NGS data analysis**, high-dimensional genomic data, including NGS (WES/WGS) and Single-cell transcriptomics.
 - I focus on developing reproducible, scalable pipelines using Python, R, and Nextflow to interpret complex biological datasets and prioritise variants for precision medicine.
 - Currently, I am leading the design of high-throughput analytics pipelines that bridge the gap between large-scale data engineering and biological discovery.including
