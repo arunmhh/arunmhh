@@ -1,84 +1,50 @@
-# 👋 Hi, I'm Arun Kumar
+<div align="center">
 
-## Bioinformatics | Biostatistics | Data Science | NGS | Nextflow
-🎓 I'm a PhD researcher specializing in **Liver Cancer Stem Cell Biology**, with a deep focus on **genomic, transcriptomic and kinome** profiling to unravel the complexities of cancer biology.
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Arun%20Kumar&fontSize=65&fontAlignY=38&desc=PhD%20Researcher%20%7C%20Computational%20Biologist%20%7C%20Multi-Omics%20%26%20NGS%20Engineer&descAlignY=62&descSize=19&fontColor=ffffff&descColor=a5d6ff" width="100%" alt="Arun Kumar Header" />
 
-------------
-## 🛡️ Skills & Stack
+<!-- DYNAMIC TYPING SVG -->
+<a href="https://github.com/arunmhh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Bridging+Biological+Discovery+%26+Data+Engineering;Liver+Cancer+Stem+Cell+Genomics+%26+Transcriptomics;Scalable+Pipelines+in+Nextflow%2C+R+%26+Python;Translational+Bioinformatics+%26+Biomarker+Discovery" alt="Typing SVG" />
+</a>
 
+<br/>
+
+<!-- SOCIAL & ACADEMIC BADGES -->
 <p align="center">
-  <!-- R icon -->
-  <img src="https://www.r-project.org/logo/Rlogo.png" width="60" alt="R" style="vertical-align: middle; margin-right: 25px;" />
-
-  <!-- SkillIcons set -->
-  <img src="https://skillicons.dev/icons?i=python,docker,linux,rust,git,vscode&theme=dark"/>
-   
-  <!-- Nextflow icon -->
-  <img src="https://github.com/arunmhh/arunmhh/raw/main/Image/nextflow-icon.png" width="45" alt="Nextflow" style="vertical-align: middle;" />
-
- 
+  <a href="https://orcid.org/0000-0001-9336-7810" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-0000--0001--9336--7810-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+  <a href="https://www.linkedin.com/in/arun-kumar-a7896a44/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Arun_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/ArunExcelbiotec" target="_blank">
+    <img src="https://img.shields.io/badge/X-@ArunExcelbiotec-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="mailto:kumar.arun@mh-hannover.de">
+    <img src="https://img.shields.io/badge/Email-MHH_Hannover-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
+</div>
 
 ---
 
-## 🔬 About Me
+### 🧬 About Me & Research
 
-- 🧬 I’m a **Biologist** with a passion for computational biology and systems-level understanding of cancer.
-- 🧪 Currently pursuing my **PhD in Liver Cancer Stem Cell Biology**, Expected to submit **June 2026**.
-- 📊 My research involves **NGS data analysis**, high-dimensional genomic data, including NGS (WES/WGS) and Single-cell transcriptomics.
-- I focus on developing reproducible, scalable pipelines using Python, R, and Nextflow to interpret complex biological datasets and prioritise variants for precision medicine.
-- Currently, I am leading the design of high-throughput analytics pipelines that bridge the gap between large-scale data engineering and biological discovery.including
-- bulk RNA-seq and single-cell RNA-seq & MicroArray.
-- 🧠 I explore gene expression, mutation profiling, and pathway analysis to identify therapeutic targets.
+I am a **PhD Researcher** at **Hannover Medical School (MHH)** (*thesis submission: June 2026*), operating at the intersection of **Cancer Genomics**, **Stem Cell Biology**, and **Computational Data Engineering**.
 
----
+My research untangles the molecular architecture of **Liver Cancer Stem Cells** through high-dimensional genomic, transcriptomic, and kinomic profiling. I specialize in turning massive raw sequencing datasets into actionable clinical insights and reproducible analytical software.
 
-## 🧰 Tools & Technologies
-
-### 🧑‍💻 Programming & Analysis
-- **Languages**: R, Python,Power BI, Tableau
-- **Data Analysis**: Seurat, DESeq2, tidyverse,Bioconductor, Pandas, NumPy, SciPy,OOPs in python,
-- **Machine Learning**: scikit-learn, caret, XGBoost, randomForest
-- **Data Visualization**: ggplot2, matplotlib, seaborn, plotly,
-- **Databases**: MySQL,PostgreSQL,MongoDB,
-
-### ⚙️ Workflow, Pipelines & Reproducibility
-- **Workflow Management**: Nextflow
-- **Reproducibility**:  Conda,Docker,RENV, Git, GitHub Actions
-- **Cloud & HPC**: AWS, Linux (Bash scripting, HPC environments)
-
-### 🎨 Graphics & Communication
-- **Scientific Visualization & Design**: Inkscape, Adobe Illustrator, GraphPad Prism,Figma
-
----
-
-## 📘 Current Interests
-
-- Cancer stem cell marker identification  
-- Tumor heterogeneity and microenvironment profiling  
-- Integrating **multi-omics data** (genomics, transcriptomics, epigenomics)  
-- Developing **reproducible, scalable pipelines** for NGS analysis using Nextflow  
-- Applying ML to predict treatment response and biomarker discovery with RWD
-
----
-## 🌐 Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/arun-kumar-a7896a44/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
- <a href="https://orcid.org/0000-0001-9336-7810" target="_blank"><img src="https://img.shields.io/badge/ORCID-0000--0001--9336--7810-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/></a>
-  <a href="https://x.com/ArunExcelbiotec" target="_blank">  <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/></a>
-  <a href="mailto:kumar.arun@mh-hannover.de"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  
-</p>
----
-
-[![Aruns GitHub stats](https://github-readme-stats.vercel.app/api?username=arunmhh&show_icons=true&theme=radical)](https://github.com/arunmhh/github-readme-stats)
-
-![K_CD133p_K_CD133N](https://github.com/arunmhh/arunmhh/raw/main/Image/K_CD133p_K_CD133N.png)
-
-> “Science is not only a disciple of reason but, also, one of romance and passion.” — *************Stephen Hawking****************
-
-
-Thanks for stopping by! Feel free to check out my projects and connect if you're interested in collaborating! 🌱
+```mermaid
+graph LR
+    A[Raw NGS Data: WES / WGS / scRNA-seq] --> B[Nextflow & HPC Workflows]
+    B --> C[Differential Expression & Kinome Profiling]
+    C --> D[Tumor Microenvironment & Heterogeneity]
+    D --> E[Therapeutic Targets & Precision Medicine]
+    style A fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#fff
+    style B fill:#0d1117,stroke:#38bdf8,stroke-width:2px,color:#fff
+    style C fill:#0d1117,stroke:#7ee787,stroke-width:2px,color:#fff
+    style D fill:#0d1117,stroke:#f0883e,stroke-width:2px,color:#fff
+    style E fill:#0d1117,stroke:#ff7b72,stroke-width:2px,color:#fff
 
